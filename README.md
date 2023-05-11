@@ -5,16 +5,16 @@ For the major project we will be creating a game about the main character (*Rona
 
 
 **Must Have List:** 
-*Have 3 maps
-*Two charcters including a villager and the main character (Ronald)
-*One inventory plus 3 items
-*Have Five rooms (blocks) in each map
-*Have ability to trade items
+* Have three maps
+* Two charcters including a villager and the main character (Ronald)
+* One inventory plus three items
+* Have Five rooms (blocks) in each map
+* Have ability to trade items
 
 
 **Desired List:** 
-*Around 6 maps
-*Have 3 charcters including a villager and the main character (Ronald) and a thief
-1 inventory plus 5 items
-Have 8 rooms (blocks) in each world
-Have ability to buy and trade items
+* Around six maps
+* Have three charcters including a villager and the main character (Ronald) and a thief
+* one inventory plus five items
+* Have eight rooms (blocks) in each world
+* Have ability to buy and trade items
